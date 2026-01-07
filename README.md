@@ -48,29 +48,4 @@ I enjoy working on **web applications, deep learning projects, and machine learn
 
 ---
 
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="180" rx="20" fill="url(#grad)" />
-
-  <text x="50%" y="80" text-anchor="middle"
-        font-size="34"
-        fill="#E0F7FA"
-        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-        font-style="italic">
-    “Without data, you’re just another person with an opinion.”
-  </text>
-
-  <text x="50%" y="125" text-anchor="middle"
-        font-size="20"
-        fill="#80DEEA"
-        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
-    — W. Edwards Deming
-  </text>
-</svg>
+![Dev & Data Quote](dev-data-quote.svg)
