@@ -43,7 +43,7 @@ I enjoy working on **web applications, deep learning projects, and machine learn
 - **Aircraft Tech Log Application** (React + TypeScript + Tailwind)
 - **Breast Cancer Classification System** (ML + Healthcare AI)
 - **SafeZone – Real-Time Emergency Assistance System** (Web + Location)
-
+- **WriteID – Handwriting Writer Recognition** (Deep Learning + CNN + OpenCV)
 ---
 
 ![Dev & Data Quote](dev-data-quote.svg)
