@@ -1,9 +1,9 @@
 # 👋 About Me
 
-Hi there! I'm Noorul Hasiba Abdul Hai, a passionate **Computer Science & Data Science student** from Kedah, Malaysia.  
+Hi there! I'm Noorul Hasiba, a passionate **Computer Science & Data Science student** from Kedah, Malaysia.  
 I love exploring data, uncovering patterns, building predictive models, and turning insights into **practical, real-world solutions**.  
-I enjoy working on **web applications, deep learning projects, and machine learning pipelines**, continuously learning new technologies, and solving challenging problems.  
-
+I enjoy working on **web applications, deep learning projects, and machine learning pipelines**, continuously learning new technologies, solving challenging problems improving my skills..  
+Let's connect and collaborate
 
 ---
 ## 💻 Tech Stack
