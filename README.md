@@ -40,8 +40,8 @@ I enjoy working on **web applications, deep learning projects, and machine learn
 ---
 
 ## ✨ Featured Projects
-- **Smart Form Filling System using AI & LLM** (Web App + LLM API)
-- **Handwriting Writer Identification** (Deep Learning + CNN + Streamlit)
+- **Smart Form Filling System using AI & LLM** (Web App + LLM API) (Ongoing)
+- **Handwriting Writer Identification** (Deep Learning + CNN + Streamlit) (Ongoing)
 - **Aircraft Tech Log Application** (React + TypeScript + Tailwind)
 - **Breast Cancer Classification System** (ML + Healthcare AI)
 - **SafeZone – Real-Time Emergency Assistance System** (Web + Location)
