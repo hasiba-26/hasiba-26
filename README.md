@@ -1,51 +1,44 @@
-# Hi there 👋 I'm Noorul Hasiba Abdul Hai
-
-🎓 **Computer Science & Data Science Undergraduate**  
-🌐 **Web App & AI Enthusiast | Deep Learning & Data Science**  
-📍 Kedah, Malaysia  
-
-Hi! I'm passionate about building **real-world, data-driven solutions**. I love exploring **new technologies**, solving problems, and creating projects that make an impact. Let's connect and build something amazing! ✨
+# 👋 About Me
+Hi there! I'm a passionate **Computer Science & Data Science student** who loves exploring and learning new technologies. I enjoy solving problems, building innovative solutions, and continuously improving my skills. Let's connect and collaborate!  
 
 ---
 
 ## 🌐 Socials
-[Email](mailto:ahnoorulhasiba@gmail.com) | [LinkedIn](www.linkedin.com/in/noorul-hasiba-b9689238b) | [GitHub](https://github.com/hasiba-26)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasiba-26)
 
 ---
 
 ## 💻 Tech Stack
-🐍 Python | ☕ Java | 🌐 JavaScript | 💻 HTML5 | 🎨 CSS | ⚛️ React | 🛠️ FastAPI | 🌊 Streamlit | Tailwind CSS | TensorFlow | Keras | OpenCV | 🗄️ MySQL | Power BI | Figma | Canva | Git | GitHub | TypeScript | ShadCN UI  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### ✨ Smart Form Filling System using AI & LLM *(Ongoing)*  
-- Web-based **expense claim system** using React, Tailwind, FastAPI, and LLM API.  
-- Automates **data extraction & validation** from receipts and invoices.  
-
-### ✍️ Handwriting Writer Identification — Deep Learning *(Ongoing)*  
-- Building a **CNN-based model** for writer identification.  
-- Will include **Grad-CAM visualizations** and **Streamlit app** for real-time predictions.  
-
-### 🚀 Aircraft Tech Log Application  
-- Developed a **web app for flight log management** with manual and voice input, predictive suggestions, and real-time validation.  
-- Designed a **tabbed interface** for smooth navigation and efficient data entry.  
-- Tools Used: React, TypeScript, Tailwind CSS, ShadCN UI  
-
-### 🎗️ Breast Cancer Classification System — ML & Healthcare AI  
-- ML model for **breast cancer prediction** using public datasets.  
-- Implemented **data preprocessing, feature engineering, and model evaluation** for accurate predictions.  
-
-### 🚨 SafeZone – Real-Time Emergency Assistance System  
-- Web-based **SOS alert system** with **real-time location tracking**.  
+## ✨ Featured Projects
+- **Smart Form Filling System using AI & LLM** (Web App + LLM API)
+- **Handwriting Writer Identification** (Deep Learning + CNN + Streamlit)
+- **Aircraft Tech Log Application** (React + TypeScript + Tailwind)
+- **Breast Cancer Classification System** (ML + Healthcare AI)
+- **SafeZone – Real-Time Emergency Assistance System** (Web + Location)
 
 ---
 
-### ✍️ Favorite Dev Quote  
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-
----
-
-✨ *Always eager to learn, build, and grow as a technology professional!*
-
+## ✍️ Random Dev Quote
+*"The cheapest, fastest, and most reliable components are those that aren’t there."*  
+— Gordon Bell
